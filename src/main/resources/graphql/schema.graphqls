@@ -6,4 +6,9 @@ type Query {
 type Customer {
     id: ID
     name: String
+    profile: Profile
+}
+
+type Profile {
+    id: ID
 }
