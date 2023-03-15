@@ -1,4 +1,4 @@
-package com.bootiful.client;
+package com.bootiful;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
